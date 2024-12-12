@@ -18,7 +18,7 @@ publication_types: ["preprint"]
 publication: ""
 publication_short: ""
 
-abstract: ii
+abstract: "We optimize the running time of the primal-dual algorithms by optimizing their stopping criteria for solving convex optimization problems under affine equality constraints, which means terminating the algorithm earlier with fewer iterations. We study the relations between four stopping criteria and show under which conditions they are accurate to detect optimal solutions. The uncomputable one: \"Optimality gap and Feasibility error\", and the computable ones: the \"Karush-Kuhn-Tucker error\", the \"Projected Duality Gap\", and the \"Smoothed Duality Gap\". Assuming metric sub-regularity or quadratic error bound, we establish that all of the computable criteria provide practical upper bounds for the optimality gap, and approximate it effectively. Furthermore, we establish comparability between some of the computable criteria under certain conditions. Numerical experiments on basis pursuit, and quadratic programs with(out) non-negative weights corroborate these findings and show the superior stability of the smoothed duality gap over the rest."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -69,4 +69,4 @@ url_code: 'https://github.com/IyadWalwil/SDG-as-a-Stopping-Criterion'
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
