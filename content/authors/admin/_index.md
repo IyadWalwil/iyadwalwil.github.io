@@ -10,8 +10,8 @@ first_name: Iyad
 last_name: Walwil
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -53,7 +53,7 @@ education:
   - area: PhD in Applied Mathematics
     institution: Télécom Paris
     date_start: 2022-11-01
-    date_end: Ongoing
+    # date_end: Ongoing
   - area: Mater 2 in Optimization
     institution: Université Paris-Saclay
     date_start: 2021-09-01
