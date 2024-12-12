@@ -56,6 +56,7 @@ education:
   #   # date_end: Ongoing
   - area: Mater 2 in Optimization
     institution: Université Paris-Saclay
+    url: https://www.master-in-optimization.fr/
     date_start: 2021-09-01
     date_end: 2022-09-30
     summary: |
@@ -67,6 +68,7 @@ education:
       - Optimization and Statistics 
   - area: BSc in Mathematics
     institution: An-Najah National University
+    url: https://www.najah.edu/en/
     date_start: 2017-09-01
     date_end: 2021-05-31
     summary: |
