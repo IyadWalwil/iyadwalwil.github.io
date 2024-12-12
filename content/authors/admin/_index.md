@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: envelop
+  - icon: at-symbol
     url: 'mailto:iyad.walwil@gmail.com'
     label: E-mail Me
   - icon: brands/github
@@ -40,20 +40,20 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=0uzgsjoAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0001-2492-430X
+    url: https://orcid.org/0009-0001-2492-430X
 
 interests:
   - (Non-)Convex Optimization
   - Primal-Dual Algorithms
   - Stopping Criteria 
-  - Performance Estimation Problem (PEP)
+  - Performance Estimation Problem
   - Machine Learning
 
 education:
-  - area: PhD in Applied Mathematics
-    institution: Télécom Paris
-    date_start: 2022-11-01
-    # date_end: Ongoing
+  # - area: PhD in Applied Mathematics
+  #   institution: Télécom Paris
+  #   date_start: 2022-11-01
+  #   # date_end: Ongoing
   - area: Mater 2 in Optimization
     institution: Université Paris-Saclay
     date_start: 2021-09-01
