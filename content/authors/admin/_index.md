@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Iyad Walwil
+title: Iyad WALWIL
 
 # Name pronunciation (optional)
-name_pronunciation: 'Iyad'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Iyad
