@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Nidham Gazagnadou
+title: Iyad Walwil
 
 # Name pronunciation (optional)
 # name_pronunciation: Nidham Gazagnadou
 
 # Full name (for SEO)
-first_name: Nidham
-last_name: Gazagnadou
+first_name: Iyad
+last_name: Walwil
 
 # Status emoji
 # status:
